@@ -1,0 +1,11 @@
+import React, {Fragment} from 'react';
+
+let Server = () => {
+
+    return(
+         <Fragment>
+
+         </Fragment>
+     )
+};
+export default Server;
